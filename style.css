@@ -517,42 +517,7 @@ header nav .search i {
   margin-left: 950px;
 }
 
-#Followers{
-  height: 100px;
-  width: 350px;
-  color: #fec86a;
-  background-color: transparent;
-  position: absolute;
-  top: 450px;
-  left: 240px;
-  border: 2px solid #fec86a;
-  border-radius: 8px;
-  transition: all ease 0.5s;
 
-}
-#Followers:hover{
-  background-color: #fec86a;
-  color: #34353b;
-}
-
-#Followers h4{
-  padding-top: 35px;
-  padding-left: 9px;
-  font-size: 20px;
-  width: 150px;
-}
-
-#Followers #github{
-  position: absolute;
-  left: 110px;
-  bottom: 0px;
-}
-
-#Followers #Instagram{
-  position: absolute;
-  left: 220px;
-  bottom: 0px;
-}
 
 
 
